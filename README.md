@@ -1,3 +1,7 @@
+# This Fork
+This fork has only one change: remove the arbitrary 10-device limitation. Note that because of upstream's idiotic license, this fork can never be used in a commercial setting.
+
+
 Interception
 ============
 
